@@ -1,0 +1,97 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Logs
+logs/
+*.log
+
+# Model checkpoints and data
+checkpoints/
+data/
+*.pt
+*.bin
+*.onnx
+
+# Testing
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+# OpenCode / ECC
+.opencode/skills/
+.opencode/rules/
+.opencode/agents/
+opencode.json
+.claude/
+.kiro/
+
+# Mac
+.DS_Store
+
+# Data & checkpoints
+checkpoints/
+data/
+*.pt
+*.bin
+*.onnx
+
+# HRM & other projects
+HRM/
+opencrabs/
+opencrabs-release/
+offical lfm model files/
+
+
+# Models directory
+models/
+

@@ -1,0 +1,26 @@
+torch>=2.0.0
+transformers>=4.30.0
+datasets>=2.12.0
+numpy>=1.24.0
+tqdm>=4.65.0
+peft>=0.4.0
+accelerate>=0.20.0
+sentencepiece>=0.1.99
+tensorboard>=2.12.0
+matplotlib>=3.7.0
+scikit-learn>=1.2.0
+
+# Development dependencies
+pytest>=7.3.1
+black>=23.3.0
+isort>=5.12.0
+flake8>=6.0.0
+mypy>=1.3.0
+
+# Quantization dependencies
+bitsandbytes>=0.39.0
+optimum>=1.8.0
+
+# Export dependencies
+onnx>=1.14.0
+onnxruntime>=1.15.0
